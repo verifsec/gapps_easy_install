@@ -22,14 +22,14 @@
 # https://github.com/RTAndroid/android_device_brcm_rpi3/blob/aosp-7.1/scripts/gapps.sh
 #
 
-TIMESTAMP="20200212"
-VERSION="9.0"
-VARIANT="nano"
+TIMESTAMP="20200208"
+VERSION="7.1"
+VARIANT="pico"
 
 SHOW_HELP=false
 ADB_ADDRESS="192.168.10.9"
 ARCHITECTURE="arm"
-PACKAGE_NAME="nano"
+PACKAGE_NAME="pico"
 INIT_FILE="/etc/init.d/gapps"
 
 # ------------------------------------------------
